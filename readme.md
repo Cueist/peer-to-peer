@@ -28,3 +28,4 @@ Yukardakileri ekledikten sonra,
 
 Daha iyi bir dökümantasyon
 2 den fazla kullanıcı arasında bağlantı media alışverişi sağlanması.
+Akış şeması 
