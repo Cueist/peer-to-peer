@@ -5,24 +5,24 @@ https://webrtc.org/?authuser=1 // https://developer.mozilla.org/en-US/docs/Web/A
 
 ##Gerekllilikler
 
--node.js
--WebRTC dışında socket.io , express ve nodemon (npm dependicies) kullanılmıştır.
+node.js
+WebRTC dışında socket.io , express ve nodemon (npm dependicies) kullanılmıştır.
 Terminalden ;
--npm i express https://expressjs.com/
--npm i nodemon https://www.npmjs.com/package/nodemon , https://nodemon.io/
--npm i socket.io https://socket.io/
+npm i express https://expressjs.com/
+npm i nodemon https://www.npmjs.com/package/nodemon , https://nodemon.io/
+npm i socket.io https://socket.io/
 Yukardakileri ekledikten sonra,
--"npm start" ile başlatabilirsiniz.
+"npm start" ile başlatabilirsiniz.
 
 #
 
--Tarayıcınızdan yada farklı tarayıcılardan,
--http://localhost:3000 ile toplam 2 pencere açınız.
--Kamera ve ses için izin istenir.  
- -2 pencerede de farklı anahtarlar/ID' (socketid) ler -görünmeli.
--herhangi birini kopyalayıp, diğerine yapıştırdıktan sonra -video call butonuna tıklayınız.  
- -Böylece bağlantı sağlanmış oldu.
--Ekran Paylaşımı, mesajlaşma, mikrofon sesi aç-kapa işlemleri -yapılabilir.
+Tarayıcınızdan yada farklı tarayıcılardan,
+http://localhost:3000 ile toplam 2 pencere açınız.
+Kamera ve ses için izin istenir.  
+2 pencerede de farklı anahtarlar/ID' (socketid) ler -görünmeli.
+herhangi birini kopyalayıp, diğerine yapıştırdıktan sonra -video call butonuna tıklayınız.  
+Böylece bağlantı sağlanmış oldu.
+Ekran Paylaşımı, mesajlaşma, mikrofon sesi aç-kapa işlemleri -yapılabilir.
 
 ## TO DO :
 
